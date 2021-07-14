@@ -25,7 +25,7 @@ for this i have to create an console app ( or an attempt at it ) that receives a
  * It was difficult for me to completely abstract the classes, i'm still think there is a better way to do it (i need improve my abstraction).
  * I had difficulties for create a correct regular expression, i'm still do not understanding how to use certain expressions (they are very useful, so i will keep practicing).
  
- # objectives achieved.
+ # Objectives achieved.
  * The app receive correctly the text and return the list with words and number of repetitions.
  * The input and output works well (except for reciving a text file).
  
@@ -33,6 +33,8 @@ for this i have to create an console app ( or an attempt at it ) that receives a
  * I learned to use a HashMap estructure, at least the basics.
  * I learned a little more about regular expressions.
  * I used unit tests for first time, and i will keep use them and learning more about them.
+ * I'm practicing my english with this `README`.
+ * I learned more about git and github.
  
  # Things to improve.
  * Receive correctly a full text file with multilines (it rhymes).
