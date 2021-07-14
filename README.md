@@ -11,7 +11,7 @@ _(I apologize in advance for any mistakes I may have, English is not my first la
 The main reason for this app is to redirect the input (<) and output (>) by default of the windows console.
 for this i have to create an console app ( or an attempt at it ) that receives a text and return a list with the words in the text and the number of times that it's repeated.
 # Usage.
-  The jar archive is contained in this same [repository](https://github.com/DIER10/Programming2-Default_IO_Redirection/blob/main/out/artifacts/IORedirection_jar/IORedirection.jar).
+  The jar archive is contained in this same [repository](https://github.com/DIER10/Programming2-Default_IO_Redirection/blob/main/out/artifacts/IORedirection_jar/).
   For my homework it must works like this (executing the jar by console):
  
   * java -jar IORedirection.jar < "InputFileName" > "OutputFileName" (where the output file is where the list will be saved)
