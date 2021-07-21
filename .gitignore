@@ -1,0 +1,4 @@
+# Default files to ignore
+/.idea/
+out/productions/
+*.iml

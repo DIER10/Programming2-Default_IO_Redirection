@@ -14,7 +14,7 @@ public class Utilities {
     public static List<String> deleteRepeatedWords(String[] originalList ) {
         List<String> auxList = new ArrayList<>();
         for (int i = 0; i < originalList.length; i++) {
-            if ( !auxList.contains( originalList[i].toLowerCase() )){ // lo
+            if ( !auxList.contains( originalList[i].toLowerCase() )){ 
                 auxList.add( originalList[i] );
             }
         }
